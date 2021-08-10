@@ -2,7 +2,7 @@
   "name": "yireo/magento2-replace-sample-data",
   "description": "Replace sample data packages from Magento",
   "require": {
-    "magento/product-community-edition": "~2.3.5"
+    "magento/product-community-edition": "2.3.*"
   },
   "replace": {
     "magento/module-bundle-sample-data": "*",
